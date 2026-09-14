@@ -1,17 +1,12 @@
 <div align="center">
 
-# ✦ TUFFY ONE GIRL ✦
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7C3AED,100:FF00AA&height=220&section=header&text=TUFFY%20ONE%20GIRL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BUILDER%20%7C%20EXPERIMENTER&descAlignY=60&descSize=16"/>
 
-### `software engineer.exe is running...`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Build+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat;Backend+%7C+AI+%7C+Cloud;Turning+ideas+into+code+%E2%9A%A1;Welcome+to+my+GitHub+%F0%9F%91%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%3E+Initializing+Tuffy+One+Girl...;%3E+Backend+%7C+AI+%7C+Cloud;%3E+Building+things+that+shouldn't+exist;%3E+Code.+Break.+Debug.+Repeat.;%3E+Welcome+to+the+experiment+%F0%9F%91%80" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Puspanjali1-111111?style=for-the-badge&logo=github)](https://github.com/Puspanjali1)
-[![X](https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x)](https://x.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-111111?style=for-the-badge&logo=instagram)](https://instagram.com/)
+<img src="https://komarev.com/ghpvc/?username=Puspanjali1&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS"/>
 
 </div>
 
@@ -19,43 +14,64 @@
 
 <div align="center">
 
-## `> whoami`
-
 <pre>
-╭──────────────────────────────────────────────╮
-│                                              │
-│  NAME       : TUFFY ONE GIRL                │
-│  USERNAME   : Puspanjali1                   │
-│  STATUS     : BUILDING SOMETHING...         │
-│  MODE       : EXPERIMENTAL                  │
-│  COFFEE     : ████████████████████ 100%     │
-│                                              │
-╰──────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              ✦  TUFFY ONE GIRL  ✦                          ║
+║                                                              ║
+║        SOFTWARE ENGINEER • BUILDER • EXPERIMENTER           ║
+║                                                              ║
+║        [ SYSTEM STATUS : ONLINE ]                           ║
+║        [ MODE          : BUILDING ]                         ║
+║        [ SLEEP         : OPTIONAL ]                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 </pre>
 
 </div>
 
----
-
-## ⚡ `CURRENTLY_BUILDING`
+## ⚡ `BOOT_SEQUENCE`
 
 <pre>
-[████████████████████████████████] 100%
+$ ./tuffy_one_girl
 
-> Writing code
-> Building backend systems
-> Exploring AI
-> Learning cloud technologies
-> Breaking things
-> Fixing them
-> Repeat.
+[■■■■■■■■■■■■■■■■■■■■] 100%
+
+> Loading personality.............. OK
+> Loading curiosity................. OK
+> Loading caffeine.................. OK
+> Loading random ideas.............. OK
+> Loading production bugs........... FOUND
+> Ignoring production bugs.......... OK
+
+> System initialized successfully.
+
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│  Name       :: Tuffy One Girl                  │
+│  Handle     :: @Puspanjali1                    │
+│  Status     :: Building                        │
+│  Focus      :: Backend • AI • Cloud            │
+│  Philosophy :: Learn → Build → Break → Fix     │
+│                                                 │
+└─────────────────────────────────────────────────┘
 </pre>
 
 ---
 
 <div align="center">
 
-## 🧠 `TECH STACK`
+## `>>> CURRENT PROCESS <<<`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=400&color=FF00AA&center=true&vCenter=true&width=700&height=45&lines=Learning+how+systems+work+under+the+hood;Turning+ideas+into+real+projects;Experimenting+with+AI+%26+backend+architecture;Trying+to+make+every+project+better+than+the+last" />
+
+</div>
+
+---
+
+# 🧬 `TECH_MATRIX`
+
+<div align="center">
 
 ### `LANGUAGES`
 
@@ -69,7 +85,7 @@
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 
-### `TOOLS & CLOUD`
+### `CLOUD / DEVOPS`
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 
@@ -77,69 +93,57 @@
 
 ---
 
-# 🚀 `FEATURED PROJECTS`
+# 🚀 `EXPERIMENTS`
 
 <div align="center">
 
-### 🍔 Food_Bridge
+<table>
+<tr>
+<td width="50%" align="center">
 
-**A full-stack food-related application**
+## 🍔 Food_Bridge
 
 <pre>
-╭─────────────────────────────────────────────╮
-│                                             │
-│   🍔 FOOD_BRIDGE                            │
-│                                             │
-│   One of the experiments living inside     │
-│   this account.                            │
-│                                             │
-│   STATUS : PRIVATE                          │
-│   TYPE   : PROJECT                          │
-│                                             │
-╰─────────────────────────────────────────────╯
+╭────────────────────────────╮
+│                            │
+│     FOOD_BRIDGE.exe        │
+│                            │
+│  STATUS : PRIVATE          │
+│  TYPE   : EXPERIMENT       │
+│  MODE   : BUILDING         │
+│                            │
+╰────────────────────────────╯
 </pre>
 
 <a href="https://github.com/Puspanjali1/Food_Bridge">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-%E2%86%92-111111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/%3E_%20OPEN_REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<br/><br/>
+</td>
 
-### 🎵 Moodify
+<td width="50%" align="center">
 
-**A music-focused application**
+## 🎵 Moodify
 
 <pre>
-╭─────────────────────────────────────────────╮
-│                                             │
-│   🎵 MOODIFY                               │
-│                                             │
-│   Another experiment built to turn ideas  │
-│   into something actually usable.          │
-│                                             │
-│   STATUS : PUBLIC                           │
-│   TYPE   : PROJECT                          │
-│                                             │
-╰─────────────────────────────────────────────╯
+╭────────────────────────────╮
+│                            │
+│       MOODIFY.exe          │
+│                            │
+│  STATUS : PUBLIC           │
+│  TYPE   : EXPERIMENT       │
+│  MODE   : ONLINE           │
+│                            │
+╰────────────────────────────╯
 </pre>
 
 <a href="https://github.com/Puspanjali1/Moodify">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-%E2%86%92-111111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/%3E_%20OPEN_REPOSITORY-FF00AA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-# 📊 `SYSTEM_STATS`
-
-<img src="https://github-readme-stats.vercel.app/api?username=Puspanjali1&show_icons=true&hide_border=true&theme=transparent" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Puspanjali1&hide_border=true&theme=transparent" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -147,49 +151,108 @@
 
 <div align="center">
 
-## 🐍 `CONTRIBUTION.exe`
+# 📡 `GITHUB TELEMETRY`
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-stats.vercel.app/api?username=Puspanjali1&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=FF00AA&text_color=FFFFFF&rank_icon=github" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puspanjali1&layout=compact&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Puspanjali1&hide_border=true&background=00000000&ring=FF00AA&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
 ---
 
-# 💻 `TERMINAL`
+# 🐍 `CONTRIBUTION_PROTOCOL`
+
+<div align="center">
 
 <pre>
-$ git clone https://github.com/Puspanjali1
+┌──────────────────────────────────────────────┐
+│                                              │
+│   CONTRIBUTIONS DETECTED                    │
+│                                              │
+│   Deploying autonomous contribution snake... │
+│                                              │
+└──────────────────────────────────────────────┘
+</pre>
 
-$ cd Puspanjali1
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-$ npm install
+</div>
 
-$ npm run build
+---
 
-> Initializing Tuffy One Girl...
+<div align="center">
 
-> Curiosity ............. ██████████ 100%
-> Caffeine .............. ██████████ 100%
-> Random Ideas .......... ██████████ 100%
-> Sleep ................. ██░░░░░░░░  20%
+# 🌌 `SYSTEM_LOG`
 
-> SYSTEM READY 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=650&height=120&lines=%5B20%3A37%3A01%5D+New+idea+detected...;%5B20%3A37%3A02%5D+Opening+VS+Code...;%5B20%3A37%3A03%5D+Writing+code...;%5B20%3A37%3A04%5D+Why+is+this+not+working%3F;%5B20%3A37%3A05%5D+Debugging...;%5B20%3A37%3A06%5D+It+works.+Ship+it.%F0%9F%9A%80" />
+
+</div>
+
+---
+
+# 💻 `TERMINAL_SESSION`
+
+<pre>
+┌──(tuffy㉿github)-[~/projects]
+└─$ whoami
+
+Tuffy One Girl
+
+┌──(tuffy㉿github)-[~/projects]
+└─$ cat mission.txt
+
+Build useful things.
+Understand how they work.
+Keep learning.
+Make the next project better.
+
+┌──(tuffy㉿github)-[~/projects]
+└─$ ./life
+
+BUILDING ████████████████████ 100%
+LEARNING ███████████████████░  95%
+SLEEP    ████░░░░░░░░░░░░░░░  20%
+
+┌──(tuffy㉿github)-[~/projects]
+└─$ exit
+
+> Connection closed.
+> See you in the next commit.
 </pre>
 
 ---
 
 <div align="center">
 
-## `BUILD • BREAK • LEARN • REPEAT`
+## `CONNECT_WITH_THE_HUMAN_BEHIND_THE_CODE`
 
 <br/>
 
-`[ STATUS: ONLINE ]`  
-`[ MODE: EXPERIMENT ]`  
-`[ BUGS: PROBABLY ]`
+<a href="https://x.com/">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Puspanjali1&style=for-the-badge&label=PROFILE+VISITS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=FF00AA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+%F0%9F%91%80;See+you+in+the+next+commit+%F0%9F%9A%80;Stay+curious." />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00AA,50:7C3AED,100:00F7FF&height=140&section=footer&animation=fadeIn"/>
 
 </div>
