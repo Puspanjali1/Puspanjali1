@@ -1,229 +1,203 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&height=70&lines=Fullstack+Developer;Gamer;GenAI+Integration+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&height=70&lines=Fullstack+Developer;Gamer;GenAI+Integration+Developer" />
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/NaturalPatterns/StarField/master/starfield.gif" width="100%" height="110">
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&height=40&lines=Exploring+the+space+between+code+and+intelligence...;Building+systems+that+actually+do+something.;Backend+%E2%80%A2+AI+%E2%80%A2+Cloud+%E2%80%A2+Scalability" />
+<img src="https://raw.githubusercontent.com/NaturalPatterns/StarField/master/starfield.gif" width="100%" height="80">
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 🌌 `WELCOME TO MY UNIVERSE`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header"/>
+<h2>✦ FEATURED PROJECTS ✦</h2>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-### 🪐 `PROJECTS IN ORBIT`
-
-</div>
-
-<br/>
 
 <table align="center">
 <tr>
-<td width="50%" align="center">
-
-### 🍔 Food_Bridge
+<td align="center" width="50%">
 
 <a href="https://github.com/Puspanjali1/Food_Bridge">
-<img src="https://img.shields.io/badge/EXPLORE-FOOD_BRIDGE-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🍔%20FOOD__BRIDGE-FFFFFF?style=for-the-badge&labelColor=080808&color=8B5CF6">
 </a>
 
-<br/><br/>
+<br><br>
 
-`PRIVATE PROJECT`
+<sub>PRIVATE • FULLSTACK PROJECT</sub>
 
 </td>
 
-<td width="50%" align="center">
-
-### 🎵 Moodify
+<td align="center" width="50%">
 
 <a href="https://github.com/Puspanjali1/Moodify">
-<img src="https://img.shields.io/badge/EXPLORE-MOODIFY-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎵%20MOODIFY-FFFFFF?style=for-the-badge&labelColor=080808&color=00BFFF">
 </a>
 
-<br/><br/>
+<br><br>
 
-`PUBLIC PROJECT`
+<sub>PUBLIC • PROJECT</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
----
+<br>
 
 <div align="center">
 
-## 🎞️ `TRANSMISSION`
-
-<br/>
-
-<img src="https://ik.imagekit.io/tsiwfr1zi/From%20Klickpin.com-%20Pin%20these%20elegant%20succulent%20shelf%20tips%20that%20turn%20ordinary%20ideas%20into%20scroll-stopping%20inspiration%20with%20beginner-friendly%20tips%20an.mp4" width="900"/>
+<img src="https://raw.githubusercontent.com/NaturalPatterns/StarField/master/starfield.gif" width="100%" height="80">
 
 </div>
 
-<br/>
-
----
+<br>
 
 <div align="center">
 
-## 🧭 `SKILL CONSTELLATION`
+<h2>✦ TRANSMISSION ✦</h2>
 
-<br/>
+<br>
 
-### `LANGUAGES`
+<video src="https://ik.imagekit.io/tsiwfr1zi/From%20Klickpin.com-%20Pin%20these%20elegant%20succulent%20shelf%20tips%20that%20turn%20ordinary%20ideas%20into%20scroll-stopping%20inspiration%20with%20beginner-friendly%20tips%20an.mp4" width="100%" autoplay muted loop playsinline controls></video>
 
-<img src="https://skillicons.dev/icons?i=js,ts" />
+<br><br>
 
-<br/><br/>
+<a href="https://ik.imagekit.io/tsiwfr1zi/From%20Klickpin.com-%20Pin%20these%20elegant%20succulent%20shelf%20tips%20that%20turn%20ordinary%20ideas%20into%20scroll-stopping%20inspiration%20with%20beginner-friendly%20tips%20an.mp4">
+<img src="https://img.shields.io/badge/▶%20WATCH%20TRANSMISSION-FFFFFF?style=for-the-badge&labelColor=080808&color=8B5CF6">
+</a>
 
-### `FRONTEND`
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+<br>
 
-<br/><br/>
+<div align="center">
 
-### `BACKEND`
+<img src="https://raw.githubusercontent.com/NaturalPatterns/StarField/master/starfield.gif" width="100%" height="80">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
 
-<br/><br/>
+<br>
 
-### `DATABASE`
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+<h2>✦ SKILLS ✦</h2>
 
-<br/><br/>
+<br>
 
-### `CLOUD • DEVOPS • TOOLS`
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+<br><br>
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github" />
 
-### `AI • GENAI`
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,jest" />
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python" />
 
-<br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tavily-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&labelColor=080808&color=1C3C3C&logo=langchain&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Google%20GenAI-FFFFFF?style=for-the-badge&labelColor=080808&color=8E75B2&logo=googlegemini&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Groq-FFFFFF?style=for-the-badge&labelColor=080808&color=F55036&logo=groq&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Tavily-FFFFFF?style=for-the-badge&labelColor=080808&color=111111" />
 
-<br/><br/>
+<br><br>
 
-### `TESTING • ARCHITECTURE • OTHER`
-
-<img src="https://skillicons.dev/icons?i=jest" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/System%20Design-111111?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scalability-111111?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ImageKit-111111?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-FFFFFF?style=for-the-badge&labelColor=080808&color=6366F1" />
+<img src="https://img.shields.io/badge/Scalability-FFFFFF?style=for-the-badge&labelColor=080808&color=06B6D4" />
+<img src="https://img.shields.io/badge/REST%20APIs-FFFFFF?style=for-the-badge&labelColor=080808&color=10B981" />
+<img src="https://img.shields.io/badge/ImageKit-FFFFFF?style=for-the-badge&labelColor=080808&color=F43F5E" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 🛰️ `GITHUB SIGNAL`
-
-<img src="https://github-readme-stats.vercel.app/api?username=Puspanjali1&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puspanjali1&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Puspanjali1&hide_border=true&background=00000000&ring=8A2BE2&fire=00BFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://raw.githubusercontent.com/NaturalPatterns/StarField/master/starfield.gif" width="100%" height="100">
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 🌍 `CURRENT SIGNAL`
+<h2>✦ GITHUB SIGNAL ✦</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=45&lines=LOCAL+TIME+%3A+CHECKING...;LOCATION+%3A+UNKNOWN;SIGNAL+%3A+CONNECTED;STATUS+%3A+ONLINE" />
+<br>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Puspanjali1&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" />
 
-`GitHub does not expose the viewer's timezone to README content.`
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Puspanjali1&hide_border=true&background=00000000&ring=8B5CF6&fire=00BFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 🌠 `CONTRIBUTION TRAJECTORY`
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/NaturalPatterns/StarField/master/starfield.gif" width="100%" height="80">
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 🔗 `ESTABLISH CONNECTION`
+<h2>✦ CONNECT ✦</h2>
 
-<br/>
+<br>
 
 <a href="https://x.com/">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&labelColor=080808&color=FFFFFF&logo=x&logoColor=000000">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&labelColor=080808&color=0A66C2&logo=linkedin&logoColor=FFFFFF">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&labelColor=080808&color=E4405F&logo=instagram&logoColor=FFFFFF">
 </a>
 
-<br/><br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&height=35&lines=Somewhere+in+the+universe...;someone+is+still+debugging+at+3AM.;Keep+building.+%F0%9F%9A%80" />
+<br>
 
-<br/><br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:301060,100:000000&height=140&section=footer&animation=fadeIn"/>
+<img src="https://raw.githubusercontent.com/NaturalPatterns/StarField/master/starfield.gif" width="100%" height="100">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=Somewhere+between+code+and+the+stars...;Keep+building.;Keep+exploring.;Keep+shipping." />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/NaturalPatterns/StarField/master/starfield.gif" width="100%" height="100">
 
 </div>
