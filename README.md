@@ -1,194 +1,170 @@
+<p align="center">
+  <img width="70%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=TUFFY%20ONE%20GIRL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Gamer%20%7C%20GenAI%20Integration%20Developer&descAlignY=55&descSize=16">
+</p>
 
-<p align="center"><img width="70%" src="https://user-images.githubusercontent.com/65062036/201350431-fac1a82c-7a1e-48ee-89e5-cc14a5e6bc7e.png"></p>
+<div align="center">
 
-<!-- ![Screenshot from 2023-11-07 21-38-50-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/fbc90150-1c06-4993-9798-8a67ad535e5a) -->
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&duration=3000&pause=700&color=8A2BE2&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Building+things+that+actually+work+%F0%9F%9A%80;Exploring+Backend+%7C+AI+%7C+Cloud;Learning+how+systems+work+under+the+hood;Code+%E2%80%A2+Build+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat">
 
-![violet_github_banner-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/7ddcb24f-3be6-4b44-a1d8-352c7d75bed7)
+</div>
 
+<br>
 
-<!-- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=19&duration=7000&pause=500&color=FFCE76&center=true&vCenter=true&repeat=false&width=450&lines=Find+me+anywhere+with+%40prakhartiwari0)](https://git.io/typing-svg)
--->
+<p align="center">
+  <img width="33%" align="right" src="https://ik.imagekit.io/tsiwfr1zi/giphy.gif">
+</p>
 
-<h3 align="center">On a Journey to become a great human being...<p align="right"></h3>
+<h2 id="intro">Namaste 🙏</h2>
 
+I'm **Tuffy One Girl**, also known as **@Puspanjali1** — a developer who enjoys building things, experimenting with technology, and understanding how software actually works under the hood.
 
-<img width="33%" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
+I'm particularly interested in **full-stack development, backend engineering, GenAI integrations, cloud technologies, system design, and scalable applications**.
 
+I like learning by building real projects rather than just collecting tutorials and certificates.
 
-<h3 id="intro"> Namaste 🙏 </h3>
+<br clear="right"/>
 
-I'm **[Prakhar Tiwari](https://www.heyprakhar.com)**, an **enthusiastic developer** hailing from the vibrant nation of India 🇮🇳 <br>
-Technology has always fascinated me, and I've immersed myself in the captivating world of web development.
-My purpose? **Building applications that make a real difference in people's lives**! 🔥 <br>
-I **Love working in Open Source ❤️** <br>
-I'm a very curious person with a great desire to explore this world and do something great that could make many lives better.
+---
 
-I am very passionate about:
-- Web Development 🌐 & Programming 🖥
-- Robotics 🤖 & IoT 🔆
-- Science 🚀 & Mathematics 🔢
-and much more...
+<h2 id="present_status">Present Status 🚀</h2>
 
-<h2 id="present_status"> Present Status </h3>
+<p align="center">
+  <img width="33%" align="right" src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
+</p>
 
-<img width="33%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
+👉 Building and experimenting with **Fullstack applications** 💻
 
-👉 Learning React JS & Chrome Extension Development 💻
+👉 Working with **TypeScript, Node.js, Express, React & Next.js**
 
-👉 Managing Tech Communities & Organizing Events 🎙
+👉 Exploring **GenAI integrations, LangChain, Google Gemini, Groq & Tavily** 🤖
 
-👉 Writing Useful Content on **[Hashnode](https://hashnode.heyprakhar.com)**, [**FreeCodeCamp**](https://www.freecodecamp.org/news/author/prakhartiwari0/), [LinuxHandbook](https://linuxhandbook.com/author/prakhar/) and [Bearblog](https://techexplorer.bearblog.dev/).
+👉 Learning **AWS, system design, scalability and distributed application concepts** ☁️
 
-👉 Building & Contributing to Open Source Projects
+👉 Writing and testing backend applications with **Jest** 🧪
 
+👉 Working with **MongoDB & PostgreSQL** 🗄️
 
+👉 Building APIs and thinking about how applications can scale 🚀
 
-<details>
-<summary>Life Updates</summary>
+<br clear="right"/>
 
+---
 
-`Update 16 Sep 2023:` I'll be launching A lot of exciting Open Source Projects soon
-
-`Update 7 Nov 2023:` I have been working on [**My Web Shortcuts**](https://www.mywebshortcuts.xyz/) for nearly a month and it will launch very soon.
-
-`Update 22 Dec 2023:` My Web Shortcuts was [launched about a month ago on Product Hunt](https://www.producthunt.com/posts/my-web-shortcuts), and has an amazing response. Let's see what the future has for this little project.
-
-`Update 09 Oct 2024:` I got a job lol, working on chrome extension, pretty crazy how life moves
-</details> 
-
-
-<h3 id="blog_posts">Recent Blog Posts</h3>
-
+<h2 id="skills">Skills 🌱</h2>
 
 <details>
-<summary>Show Blog posts</summary>
-
-<!-- BLOGPOSTS:START -->
- - 💯 [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://hashnode.heyprakhar.com/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript)
- - 🚀 [New to Open Source? Know everything you need to!](https://hashnode.heyprakhar.com/new-to-open-source-know-everything-you-need-to)
- - 🔥 [Sharing my little journey of HacktoberFest with you!](https://hashnode.heyprakhar.com/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
-
-</details> 
-
-
-
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-
-
-| <img src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |  <img  width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhartiwari0&layout=compact" /> |
-| ------------- | ------------- | ------------- |
-
-
-
-<h2 id="skills" align=''> Skills 🌱</h3>
-
-
- <details>
 <summary>Show Skills</summary>
+
+<br>
 
 ### Technical Skills 💻
 
-
-
 | Skill Group | Skills |
 | ----------- | ------ |
-| **WebDev:** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">&nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"> |
-| **Programming:** | &nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">|
-| **Operating System:** | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">&nbsp;<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""> |
-| **Other Technologies:** |  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">&nbsp;<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
-<!-- <img src="" alt=""> -->
-<img  width="150px" align='right' src="https://i.giphy.com/media/TEILCythSScYyaaEDK/giphy.webp">
+| **Languages:** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> |
+| **Frontend:** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> |
+| **Backend:** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge"> |
+| **Databases:** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> |
+| **AI / GenAI:** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Tavily-111111?style=for-the-badge"> |
+| **Cloud / DevOps:** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> |
+| **Testing:** | <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"> |
+| **Tools:** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Bruno-111111?style=for-the-badge"> |
+| **Other:** | <img src="https://img.shields.io/badge/System%20Design-6366F1?style=for-the-badge">&nbsp;<img src="https://img.shields.io/badge/Scalability-06B6D4?style=for-the-badge">&nbsp;<img src="https://img.shields.io/badge/ImageKit-F43F5E?style=for-the-badge"> |
 
-### Real Life Skills
+<br>
 
-<img src="https://img.shields.io/badge/-Conversational%20English-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Event%20Management-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Creative%20Thinking-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Leadership-skyblue" alt="">
-<img src="https://img.shields.io/badge/-Nonverbal%20communication-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Ready%20to%20Learn%20%26%20Evolve-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Problem%20Solving-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Critical%20Thinking%20%26%20Analysis-skyblue" alt="">
+### Currently Exploring
 
+<img src="https://img.shields.io/badge/TypeScript-Deep%20Dive-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/System%20Design-Exploring-6366F1?style=for-the-badge">
+<img src="https://img.shields.io/badge/Scalability-Exploring-06B6D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/GenAI-Integrations-8E75B2?style=for-the-badge">
 
 </details>
 
-<!-- <details>
-<summary>Open some Section</summary>
+---
 
-</details> -->
-
-
-<h2 id="projects" align=''> My Projects & Open Source Contributions 🔥</h2>
+<h2 id="projects">My Projects 🔥</h2>
 
 <details>
-<summary>Show Projects & Contributions</summary>
+<summary>Show Projects</summary>
 
-### My Own Projects
+<br>
+
+### My Projects
 
 | Project | Description |
-| ------  | ----------- |
-| [My Web Shortcuts](https://github.com/mywebshortcuts/mywebshortcuts) | A browser Extension used to create custom keyboard shortcuts in a website 🌎💻 |
-| [Arito](https://github.com/prakhartiwari0/arito) | Arito is a WebApp built for practicing arithematic skills. It is designed with creativity and to have a joyful experience. It is built primarily for kids who need to practice their mathematical skills, but this can be used by anybody. |
-| [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
-| [Maths Practice App (Python Tkinter)](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
-
-
-
-### Open Source Projects I have contributed to ⭐:
-| Project | Description |
-| ------  | ----------- |
-|[Tourism Website](https://github.com/PritamSarbajna/tourism-website)| ADVENTURE - A simple website of a tourism agency for tourists.|
-| [BroTab](https://github.com/balta2ar/brotab) | Control your browser's tabs from the command line |
-| [MedFlare](https://github.com/prathimacode-hub/MedFlare)| Med Flare is an instant medical aid app to resolve the hassles and address the emergencies at right frame of time to the needy. |
-| [LinkFree](https://github.com/MichaelBarney/LinkFree) | A free and open source alternative to LinkTree |
-| [Stack-Docs](https://github.com/CaiJimmy/stack-docs) | Source of Stack theme's documentation |
-| [Safe Eyes](https://github.com/slgobinath/SafeEyes) | Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder | 
-
-And many other contributions to open source 😇. I love contributing whatever I can to help others! 
+| ------ | ----------- |
+| [**Food_Bridge**](https://github.com/Puspanjali1/Food_Bridge) | A full-stack project currently kept private while experimenting and developing the application. |
+| [**Moodify**](https://github.com/Puspanjali1/Moodify) | A music-focused project built as part of my development experiments. |
 
 </details>
 
+---
 
-<h2 id="achievements" align=''>Achievements ⚡️ & Testimonials 😇</h2>
+<h2 id="github_stats">GitHub Stats 👨‍💻</h2>
 
-<details>
-<summary>Show Achievements</summary>
+<div align="center">
 
-<!-- <a href="" target="_blank"><img src="" width="00px"/></a> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Puspanjali1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
 
-| Name | Description | Proof |
-| ---- | ----------- | ----- |
-| HackOdisha 2.0 | I participated in HackOdisha 2.0 and was a part of a team. We worked on a project together and I got to learn a lot from that experience | <a href="https://certificate.givemycertificate.com/c/928982d6-1e3a-4a5d-8494-4d8acb810064" target="_blank"><img src="https://user-images.githubusercontent.com/65062036/198053762-c8ccb1b6-2903-422a-9e71-5a14c779cede.png" width="100%"/></a>|
-| Hacktoberfest 2022 & 2023 | I participated and completed Hacktoberfest 2022 | <a href="https://holopin.io/@prakhar_tiwari" target="_blank"><img src="https://holopin.me/prakhar_tiwari" width="100%"/></a> |
+<br><br>
 
-</details>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Puspanjali1&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
 
+<br><br>
 
-<details>
-<summary>Show Testimonials</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puspanjali1&layout=compact&theme=tokyonight&hide_border=true" />
 
-If you know me for a while and want to share something about me, you can **create an [issue for testimonials](https://github.com/prakhartiwari0/prakhartiwari0/issues/new/choose).**
+</div>
 
-| Name | About | Testimonial |
-| ---- | ----------- | ----------- |
-| **[Pritam Sarbajna](https://www.linkedin.com/in/pritam-sarbajna-74945821b/)** | **IT undergrad, Developer, Open source and cybersecurity enthusiast** | _"I've known Prakhar from github, When he contributed one of my open-source repo. After having some conversation with him I'm amazed to know that he's just in school and learnt so much. Always love to talk with these enthusiastic fellas !!! Wish you all the best for future! "_ [{Source}](https://github.com/prakhartiwari0/prakhartiwari0/issues/7) |
+---
 
- </details>
+<h2 align="center">Contribution Activity 🐍</h2>
 
-<!-- [![Prakhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prakhartiwari0&theme=github)](https://www.heyprakhar.xyz/links) -->
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-<h3 id="support" align='center'> 
- 
- 
-<a href="https://github.com/sponsors/prakhartiwari0" target="_blank">
-Support my work 😄
-</a> </h3>
+</div>
 
-<!-- 
-<a href="" target="_blank">
-<img src="" alt="">
-</a> 
+---
 
+<h2 id="contact" align="center">Let's Connect 🌐</h2>
 
-<p align='center'> <strong>I Love Connecting with amazing people like you!😄</strong></p>
+<p align="center">
 
-<p align='center'><strong>Take Care 🌱</strong></p>
+<a href="https://x.com/">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
 
--->
+&nbsp;
+
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Keep+building.;Keep+learning.;Keep+experimenting.;See+you+in+the+next+commit+%F0%9F%9A%80">
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer"/>
+
+</p>
