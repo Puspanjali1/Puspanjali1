@@ -1,170 +1,171 @@
-<p align="center">
-  <img width="70%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=TUFFY%20ONE%20GIRL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Gamer%20%7C%20GenAI%20Integration%20Developer&descAlignY=55&descSize=16">
-</p>
+<p align="center"><img width="70%" src="https://user-images.githubusercontent.com/65062036/201350431-fac1a82c-7a1e-48ee-89e5-cc14a5e6bc7e.png"></p>
 
-<div align="center">
+<!-- ![Screenshot from 2023-11-07 21-38-50-modified](#) -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&duration=3000&pause=700&color=8A2BE2&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Building+things+that+actually+work+%F0%9F%9A%80;Exploring+Backend+%7C+AI+%7C+Cloud;Learning+how+systems+work+under+the+hood;Code+%E2%80%A2+Build+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat">
+![violet\_github\_banner-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/7ddcb24f-3be6-4b44-a1d8-352c7d75bed7)
 
-</div>
+<!-- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=19&duration=7000&pause=500&color=FFCE76&center=true&vCenter=true&repeat=false&width=450&lines=Find+me+anywhere+with+%40Puspanjali1)](#)
+-->
 
-<br>
+<h3 align="center">On a Journey to become a great human being...<p align="right"></h3>
 
-<p align="center">
-  <img width="33%" align="right" src="https://ik.imagekit.io/tsiwfr1zi/giphy.gif">
-</p>
+<img width="33%" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
 
-<h2 id="intro">Namaste 🙏</h2>
+<h3 id="intro"> Namaste 🙏 </h3>
 
-I'm **Tuffy One Girl**, also known as **@Puspanjali1** — a developer who enjoys building things, experimenting with technology, and understanding how software actually works under the hood.
+I'm **Puspanjali** , an **enthusiastic developer** hailing from the vibrant nation of India 🇮🇳 <br>
+Technology has always fascinated me, and I've immersed myself in the captivating world of web development.
+My purpose? **Building applications that make a real difference in people's lives**! 🔥 <br>
+I **Love working in Open Source ❤️** <br>
+I'm a very curious person with a great desire to explore this world and do something great that could make many lives better.
 
-I'm particularly interested in **full-stack development, backend engineering, GenAI integrations, cloud technologies, system design, and scalable applications**.
+I am very passionate about:
 
-I like learning by building real projects rather than just collecting tutorials and certificates.
+* Web Development 🌐 & Programming 🖥
+* Backend Development ⚙️
+* System Design & Scalability 🏗️
+* Cloud & AWS ☁️
+* Artificial Intelligence 🤖
+* and much more...
 
-<br clear="right"/>
+<h2 id="present_status"> Present Status </h3>
 
----
+<img width="33%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
-<h2 id="present_status">Present Status 🚀</h2>
+👉 Building practical projects and improving my development skills 💻
 
-<p align="center">
-  <img width="33%" align="right" src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
-</p>
+👉 Learning TypeScript, AWS, Next.js & Jest 🧑‍💻
 
-👉 Building and experimenting with **Fullstack applications** 💻
+👉 Exploring System Design, Scalability & Backend Architecture 🏗️
 
-👉 Working with **TypeScript, Node.js, Express, React & Next.js**
+👉 Exploring AI, LLMs & AI-powered applications 🤖
 
-👉 Exploring **GenAI integrations, LangChain, Google Gemini, Groq & Tavily** 🤖
+👉 Building & Contributing to Open Source Projects
 
-👉 Learning **AWS, system design, scalability and distributed application concepts** ☁️
+<details>
+<summary>Life Updates</summary>
 
-👉 Writing and testing backend applications with **Jest** 🧪
+`Update:` Currently focused on building practical projects and continuously improving my development and engineering skills.
 
-👉 Working with **MongoDB & PostgreSQL** 🗄️
+</details>
 
-👉 Building APIs and thinking about how applications can scale 🚀
+<h3 id="blog_posts">Recent Blog Posts</h3>
 
-<br clear="right"/>
+<details>
+<summary>Show Blog posts</summary>
 
----
+<!-- BLOGPOSTS:START -->
 
-<h2 id="skills">Skills 🌱</h2>
+* 📝 [My Blog](#)
+* 🚀 [Technical Articles](#)
+* 💻 [Development Journey](#)
+
+<!-- BLOGPOSTS:END -->
+
+</details>
+
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+
+| <img src="https://github-readme-stats.vercel.app/api?username=Puspanjali1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Puspanjali's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puspanjali1&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> | <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puspanjali1&layout=compact" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+
+<h2 id="skills" align=''> Skills 🌱</h3>
 
 <details>
 <summary>Show Skills</summary>
 
-<br>
-
 ### Technical Skills 💻
 
-| Skill Group | Skills |
-| ----------- | ------ |
-| **Languages:** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> |
-| **Frontend:** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> |
-| **Backend:** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge"> |
-| **Databases:** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> |
-| **AI / GenAI:** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Tavily-111111?style=for-the-badge"> |
-| **Cloud / DevOps:** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> |
-| **Testing:** | <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"> |
-| **Tools:** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Bruno-111111?style=for-the-badge"> |
-| **Other:** | <img src="https://img.shields.io/badge/System%20Design-6366F1?style=for-the-badge">&nbsp;<img src="https://img.shields.io/badge/Scalability-06B6D4?style=for-the-badge">&nbsp;<img src="https://img.shields.io/badge/ImageKit-F43F5E?style=for-the-badge"> |
+| Skill Group      | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend:**    | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"> |
+| **Backend:**     | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">                                                                                                  |
+| **Programming:** | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">                                                                                                                                                                                                                                                                                                                                        |
+| **Cloud:**       | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Testing:**     | <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **AI:**          | <img src="https://img.shields.io/badge/AI%20%26%20LLMs-412991?style=for-the-badge" alt="ai">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Tools:**       | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">                                                                                                                                                                                                                                                                                                                                                                          |
 
-<br>
+<img width="150px" align='right' src="https://i.giphy.com/media/TEILCythSScYyaaEDK/giphy.webp">
 
-### Currently Exploring
+### Real Life Skills
 
-<img src="https://img.shields.io/badge/TypeScript-Deep%20Dive-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/System%20Design-Exploring-6366F1?style=for-the-badge">
-<img src="https://img.shields.io/badge/Scalability-Exploring-06B6D4?style=for-the-badge">
-<img src="https://img.shields.io/badge/GenAI-Integrations-8E75B2?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Conversational%20English-skyblue" alt=""> <img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt=""> <img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt=""> <img src="https://img.shields.io/badge/-Creative%20Thinking-skyblue" alt=""> <img src="https://img.shields.io/badge/-Problem%20Solving-skyblue" alt=""> <img src="https://img.shields.io/badge/-Critical%20Thinking-skyblue" alt="">
 
 </details>
 
----
+<!-- <details>
+<summary>Open some Section</summary>
 
-<h2 id="projects">My Projects 🔥</h2>
+</details> -->
+
+<h2 id="projects" align=''> My Projects & Open Source Contributions 🔥</h2>
 
 <details>
-<summary>Show Projects</summary>
+<summary>Show Projects & Contributions</summary>
 
-<br>
+### My Own Projects
 
-### My Projects
+| Project                     | Description                                                                                      |
+| --------------------------- | ------------------------------------------------------------------------------------------------ |
+| [AI Application](#)         | An AI-powered application built to provide users with an interactive and useful AI experience.   |
+| [Backend API](#)            | A backend application with authentication, protected APIs, chat management and message handling. |
+| [Full Stack Application](#) | A practical full-stack web application built using modern web technologies.                      |
+| [Project](#)                | Add your project description here.                                                               |
 
-| Project | Description |
-| ------ | ----------- |
-| [**Food_Bridge**](https://github.com/Puspanjali1/Food_Bridge) | A full-stack project currently kept private while experimenting and developing the application. |
-| [**Moodify**](https://github.com/Puspanjali1/Moodify) | A music-focused project built as part of my development experiments. |
+### Open Source Projects I have contributed to ⭐:
+
+| Project                  | Description                             |
+| ------------------------ | --------------------------------------- |
+| [Open Source Project](#) | Add your open-source contribution here. |
+| [Open Source Project](#) | Add your open-source contribution here. |
+| [Open Source Project](#) | Add your open-source contribution here. |
+
+And many other contributions to open source 😇. I love contributing whatever I can to help others!
 
 </details>
 
----
+<h2 id="achievements" align=''>Achievements ⚡️ & Testimonials 😇</h2>
 
-<h2 id="github_stats">GitHub Stats 👨‍💻</h2>
+<details>
+<summary>Show Achievements</summary>
 
-<div align="center">
+<!-- <a href="#" target="_blank"><img src="" width="00px"/></a> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Puspanjali1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
+| Name        | Description                            | Proof      |
+| ----------- | -------------------------------------- | ---------- |
+| Achievement | Add your achievement description here. | [Proof](#) |
+| Certificate | Add your certificate/achievement here. | [Proof](#) |
 
-<br><br>
+</details>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Puspanjali1&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
+<details>
+<summary>Show Testimonials</summary>
 
-<br><br>
+If you know me for a while and want to share something about me, you can **create an [issue for testimonials](#).**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puspanjali1&layout=compact&theme=tokyonight&hide_border=true" />
+| Name          | About                    | Testimonial                     |
+| ------------- | ------------------------ | ------------------------------- |
+| **Your Name** | **Developer / Engineer** | *"Your testimonial goes here."* |
 
-</div>
+</details>
 
----
+<!-- [![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Puspanjali1&theme=github)](#) -->
 
-<h2 align="center">Contribution Activity 🐍</h2>
+<h3 id="support" align='center'> 
 
-<div align="center">
+<a href="#" target="_blank">
+Support my work 😄
+</a> </h3>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<!-- 
+<a href="#" target="_blank">
+<img src="" alt="">
+</a> 
 
-</div>
+<p align='center'> <strong>I Love Connecting with amazing people like you!😄</strong></p>
 
----
+<p align='center'><strong>Take Care 🌱</strong></p>
 
-<h2 id="contact" align="center">Let's Connect 🌐</h2>
-
-<p align="center">
-
-<a href="https://x.com/">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Keep+building.;Keep+learning.;Keep+experimenting.;See+you+in+the+next+commit+%F0%9F%9A%80">
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer"/>
-
-</p>
+-->
