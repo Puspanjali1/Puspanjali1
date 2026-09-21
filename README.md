@@ -1,7 +1,7 @@
 # 🌸 Hello, I'm Puspanjali 🌸
 
 <p align="center">
-  <img src="https://ik.imagekit.io/56zv4tfien/download.jpg" 
+  <img src="https://ik.imagekit.io/56zv4tfien/%CA%99%E1%B4%80%C9%B4%C9%B4%E1%B4%87%CA%80s.jpg" 
        alt="Puspanjali's Profile Banner" 
        width="100%" 
        style="border-radius: 16px; box-shadow: 0 6px 24px rgba(236, 72, 153, 0.25); margin-bottom: 12px;" />
