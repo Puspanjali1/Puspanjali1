@@ -45,14 +45,14 @@ Beyond the list above, I bring these to every project:
 ## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puspanjali01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Puspanjali1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
        alt="Puspanjali's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspanjali01&layout=compact&theme=tokyonight&hide_border=true" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puspanjali1&layout=compact&theme=tokyonight&hide_border=true" 
        alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puspanjali01&theme=tokyonight&hide_border=true" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puspanjali1&theme=tokyonight&hide_border=true" 
        alt="GitHub Streak" width="620" />
 </p>
 
@@ -61,8 +61,8 @@ Beyond the list above, I bring these to every project:
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/puspanjali01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-puspanjali01-171515?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Puspanjali1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Puspanjali1-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-Write to Me-D81B60?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -75,7 +75,7 @@ Beyond the list above, I bring these to every project:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=puspanjali01&color=EC4899&style=for-the-badge&base=100&label=Profile Visits" 
+  <img src="https://komarev.com/ghpvc/?username=Puspanjali1&color=EC4899&style=for-the-badge&base=100&label=Profile Visits" 
        alt="Profile Views" />
   <br><br>
   <span style="font-size: 16px;">
