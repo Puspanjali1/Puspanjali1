@@ -45,14 +45,14 @@ Beyond the list above, I bring these to every project:
 ## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puspanjali1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish2k04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
        alt="Puspanjali's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puspanjali1&layout=compact&theme=tokyonight&hide_border=true" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish2k04&layout=compact&theme=tokyonight&hide_border=true" 
        alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puspanjali1&theme=tokyonight&hide_border=true" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish2k04&theme=tokyonight&hide_border=true" 
        alt="GitHub Streak" width="620" />
 </p>
 
